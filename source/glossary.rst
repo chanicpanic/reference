@@ -3,7 +3,7 @@ Glossary
 ########
 
 _`Ability`
-  a power or bonus given to a player; it may have one or more effects
+  a power or bonus given to a player; it may have one or more `effects`_
 
 _`Attack`
   an action; to use `Attack Cards`_ one controls to destroy cards controlled by
@@ -24,7 +24,7 @@ _`Board`
   each type of `Utility Cards`_ with the capacity to have three of each
 
 _`Club` 
-  a `Resource Card`; played on the `Discard Pile`_; it has an effect;
+  a `Resource Card`_; played on the `Discard Pile`_; it has an effect;
   When played: if the `Base Value`_ is 1-5, `Draw`_ 2 cards; if the 
   `Base Value`_ is 6-10, `Draw`_ 1 card; You may play 1 card with a `Value`_
   less than or equal to the `Value`_ of the `Club`_.
@@ -51,16 +51,20 @@ _`Declare`
 
 _`Destroy`
   an event; it only occurs for cards on a `Board`_; when a card is destroyed,
-  it is `Discarded`
+  it is `Discarded`_
 
 _`Diamond`
   a `Utility Card`_; shields; all Diamonds a player `Controls`_ must be 
-  `Destroyed`_ or `Discarded`_ before `Hearts` that player `Controls`_ may
+  `Destroyed`_ or `Discarded`_ before `Hearts`_ that player `Controls`_ may
   be `Attacked`_ with full `Attack Power`_
 
 _`Discard`
   an event; when a card is placed on the `Discard Pile`_; if a player 
   discards, it is from the `Hand`_ unless otherwise specified
+
+_`Discard Pile`
+  the stack of face-up cards where `Destroyed`_ and `Discarded`_ cards are
+  placed; the place on which `Resource Cards`_ are `Played`_
 
 _`Draw`
   an action; to move the top card of the `Deck`_ to a player's `Hand`_
@@ -83,7 +87,7 @@ _`Full Board`
   and 3 `Spades`_ at one time
 
 _`Full Hand`
-  8 cards; a player may never `Hold` more than a full hand
+  8 cards; a player may never `Hold`_ more than a full hand
 
 _`Hand`
   a set of cards `Owned`_ by individual players which is hidden from other
@@ -98,7 +102,7 @@ _`Hold`, _`Held`
   a card state; refers to all cards in a player's `Hand`_
 
 _`Last Club`
-  the `Club`_ `Played`_ most recently; the `Value` of the Last Club determines
+  the `Club`_ `Played`_ most recently; the `Value`_ of the Last Club determines
   which cards may be `Played`_
 
 _`Modifier`
@@ -145,7 +149,7 @@ _`Shield Bypass`
   may not be used until the fourth turn
 
 _`Spade`
-  a `Utility Card`; weapons; Spades `Controlled`_ are used to `Attack`_;
+  a `Utility Card`_; weapons; Spades `Controlled`_ are used to `Attack`_;
   may not be `Played`_ until the third `Turn`_
 
 _`Target`
@@ -160,4 +164,26 @@ _`Utility Card`
 
 _`Value`
   refers to the `Base Value`_ when `Modifiers`_ are involved; refers to 
-  the `Effective Value` in all other instances
+  the `Effective Value`_ in all other instances
+
+.. _`attack cards`: `Attack Card`
+.. _`abilities`: `Ability`
+.. _`utility cards`: `Utility Card`
+.. _`played`: `Play`
+.. _`points`: `Point`
+.. _`destroyed`: `Destroy`
+.. _`controls`: `Control`
+.. _`controlled`: `Control`
+.. _`discarded`: `Discard`
+.. _`attacked`: `Attack`
+.. _`draws`: `Draw`
+.. _`turns`: `Turn`
+.. _`modifiers`: `Modifier`
+.. _`hearts`: `Heart`
+.. _`diamonds`: `Diamond`
+.. _`spades`: `Spade`
+.. _`clubs`: `Club`
+.. _`resolved`: `Resolve`
+.. _`components of an effect`: `Effect Component`
+.. _`effects`: `Effect`
+.. _`resource cards`: `Resource Card`
