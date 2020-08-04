@@ -252,11 +252,75 @@ Additional Rules
 * A player may not be attacked by more than two different players before having
   another turn.
 
+Abilities
+=========
 
+Abilities are special actions that players can use to their advantage.
 
+All players have the following ability.
 
+*Trader*
+  Discard 2 cards: Draw 1 card.
 
+*Trader* can be used during the Point and Club Phases as many times as possible.
 
+You can also play with the following optional ability for all players.
 
+*Panic*
+  Once per game: Discard all Spades you own: Discard all Spades your next
+  opponent controls; End your turn; You may not be attacked until the end of
+  your next turn.
 
-.. _later: `Club Mechanics`
+For more details on the above abilities see the Ability Reference.
+
+Special Abilities
+-----------------
+
+Beside those listed above, there are several unique special abilities that
+can be used. This greatly expands the base game. For details, see
+Playing with Abilities.
+
+Ending the Game
+===============
+
+Elimination
+-----------
+
+A player is eliminated when is Health is 0 or less as a result of an attack.
+All of an eliminated player's cards on the board and the hand go to the discard
+pile.
+
+Special Cases:
+
+Winning the Game
+----------------
+
+A player wins the game when all opponents have been eliminated.
+
+Additional Rules and Notes
+==========================
+
+* Full Hand: A Full Hand is 8 cards. A player may never hold more than a Full
+  Hand. That is, a player skips drawing if holding a Full Hand.
+* When the deck is exhausted, the discard pile is shuffled and becomes the deck.
+* Generally, the player with the least experience, or the player who was 
+  eliminated first in the previous game takes the first turn. Play continues
+  clockwise.
+* For every 2 players, one deck should be used rounded up. So, if there are
+  4 players, 2 decks are used. If there are 5 players, 3 decks are used.
+
+More Ways to Play
+=================
+
+Congratulations, you now know Chanic Panic fundamentals. Play with your friends
+and tune your skills. When you are ready, there are many ways to keep your 
+Chanic Panic experience fresh and exciting.
+
+* Playing in Large Groups
+* Using Special Abilities
+* Presence
+* The Stack
+* The Shop
+* Lives
+
+.. _later: `Club Mechanics`_
