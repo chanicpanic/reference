@@ -27,6 +27,7 @@ Two
   * The maximum number of different players you can be attacked by before
     having a turn.
   * The number of cards you must discard to use *Trader*.
+  * The divisor of your attack power when you do a Shield Bypass.
 
 Three
 *****
