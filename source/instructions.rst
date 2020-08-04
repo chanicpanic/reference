@@ -94,8 +94,11 @@ Here attributes of cards are listed. They should be thoroughly understood.
 Base Value
 ^^^^^^^^^^
 
-This is the number on a card. **Note**: Aces have a Base Value of 1.
-*Reminder*: There are no face cards.
+This is the number on a card. 
+
+.. note:: Aces have a Base Value of 1.
+
+   *Reminder*: There are no face cards.
 
 (Effective) Value
 ^^^^^^^^^^^^^^^^^
