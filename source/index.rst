@@ -11,6 +11,7 @@ Welcome to Chanic Panic's documentation!
    :caption: Contents:
 
    instructions
+   abilities
    by_number
    glossary
 
