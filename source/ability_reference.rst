@@ -80,6 +80,13 @@ The period indicates the end of an ability's effect.
 Base Abilities
 **************
 
+.. ability::
+   :name: Ally
+   :classification: A
+   :effect: Give 1 card from your hand to a teammate.
+   :rulings: This is a base abliity that is available for team games.
+
+
 Special Abilities
 *****************
 

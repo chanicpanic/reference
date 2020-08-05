@@ -14,6 +14,7 @@ Welcome to Chanic Panic's documentation!
    abilities
    by_number
    glossary
+   ability_reference
 
 
 
