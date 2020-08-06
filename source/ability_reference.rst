@@ -538,5 +538,11 @@ precedence? blessed
     shuffled into the deck. While a player is looking at the cards, they
     are still considered to be in the deck.
 
+.. _stack_abilities:
+
 Stack Abilities
 ***************
+
+This section covers abilities that are only relevant when playing with the
+Stack. See the Stack. When using these special abilities, mix them in with the
+others.

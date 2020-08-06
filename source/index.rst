@@ -13,6 +13,7 @@ Welcome to Chanic Panic's documentation!
    instructions
    abilities
    ability_reference
+   stack
    by_number
    glossary
 
