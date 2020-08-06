@@ -417,5 +417,126 @@ precedence? blessed
    :rulings: This can be a good card, but it is tricky to use as it 
     affects all players. It is best when used with a Club.
 
+?
+
+.. ability::
+   :name: Purifier
+   :classification: A
+   :effect: Discard all the cards in your hand: Draw 1 card or each 
+    discarded; You may shuffle the discard pile into the deck.
+   :rulings: This ability allows you to completely refresh your hand if you
+    have nothing you want. It also allows you to shuffle the discard pile
+    into the deck which may be beneficial.
+
+.. ability::
+   :name: Recycler
+   :classification: A
+   :effect: Once per turn: When you play a Club: Discard 1 card: You may
+    play a card from the discard pile instead of a card from hand. 
+   :rulings: This is a powerful ability as you can play high-valued cards 
+    straight from the discard pile.
+
+.. ability::
+   :name: Replenished
+   :classification: A
+   :effect: Once per turn: If you have 0 cards in you hand, draw 2 cards.
+   :rulings: This may not be needed too often, but it is a solid ability
+    to keep your options open. This is a mandatory effect that can activate
+    in the middle of another effect's resolution.
+
+.. ability::
+   :name: Resilient
+   :classification: P
+   :effect: When you lose a Heart: If you survive, you may immediately play
+    a Heart for free.
+   :rulings: This ability is very good and will make opponents think twice
+    before attacking you.
+
+.. ability::
+   :name: Resourceful
+   :classification: P
+   :effect: The values of your Clubs are increased by 2.
+   :rulings: This is a good card that can help you play higher valued cards.
+    With this ability, the lowest value of a Club that you can play is 3.
+    Remember that the number of cards drawn from a Club is determined by
+    its Base Value.
+
+? Scavenger
+
+.. ability::
+   :name: Seer
+   :classification: P
+   :effect: During your turn, you may look at the top card of the deck.
+   :rulings: This ability allows you to see what you would get if you drew
+    a card. It is a good way to maximize the effect of a Club.
+
+? Seizure
+
+.. ability::
+   :name: Seller
+   :classification: A
+   :effect: Discard up to 3 Utility Cards: Gain points equal to half the 
+    cards' total value; Draw 1 card for every 2 discarded.
+   :rulings: When you have cards you do not need, this ability is effective.
+    It is versatile in that it can be used for points or new cards. 
+    Remember to round down when the points are calculated.
+
+.. ability::
+   :name: Sorcerer
+   :classification: A
+   :effect: Once per turn: Target a Spade you control; Pay point equal to
+    its Base Value: Until the end of your turn, its value is doubled, and
+    you may only attack with that Spade.
+   :rulings: This ability allows you to boost your attack power for a hard
+    hit. It is best when you are lacking other Spades.
+
+.. ability::
+   :name: Standardization
+   :classification: P
+   :effect: All Clubs you play allow you to draw 2 cards.
+   :rulings: This is a very good ability for increasing your drawing power.
+    Hopefully you have some 6-10 of Clubs.
+
+.. ability::
+   :name: Toughness
+   :classification: P
+   :effect: The values of Diamonds you control are increased by 1.
+   :rulings: This ability gives you a little extra defense that can be the
+    difference between a damaging blow and a final blow.
+
+.. ability::
+   :name: Trade Master
+   :classification: A
+   :effect: Once per turn: Discard 1 card: Draw 2 cards: Discard 1 card.
+   :rulings: This ability is an upgrade on the Trader ability. You only need
+    to discard 1 card to start, and you may discard one of the cards you
+    drew afterwards.
+
+.. ability::
+   :name: Warrior
+   :classification: P
+   :effect: The values of Spades you control are increased by 1.
+   :rulings: This ability adds a little extra punch to your attacks, and it
+    doubles the power of your Aces.
+
+.. ability::
+   :name: Wealth
+   :classification: P
+   :effect: You start each Point Phase with 15 points.
+   :rulings: This ability has no downsides apart from the fact that you 
+    might not take full advantage of it. When played with other point 
+    bonuses, apply this one first.
+
+.. ability::
+   :name: Wisdom
+   :classification: A
+   :effect: Once per turn: Pick up the top 3 cards of the deck and look at
+    them; Put them back in any order.
+   :rulings: This ability allows you to choos what you will draw, and what
+    players after you will draw. If there are fewer than 3 cards in the 
+    deck, pick up as many cards as possible. The discard pile is not
+    shuffled into the deck. While a player is looking at the cards, they
+    are still considered to be in the deck.
+
 Stack Abilities
 ***************

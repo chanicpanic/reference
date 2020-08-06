@@ -12,9 +12,9 @@ Welcome to Chanic Panic's documentation!
 
    instructions
    abilities
+   ability_reference
    by_number
    glossary
-   ability_reference
 
 
 
