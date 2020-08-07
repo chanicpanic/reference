@@ -11,6 +11,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
+import sphinx_material
+
+ # Register the theme as an extension to generate a sitemap.xml
 
 import os
 import sys
@@ -35,6 +38,7 @@ release = '1.0.0'
 extensions = [
     "chanicpanic"
 ]
+extensions.append('sphinx_material')
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -52,6 +56,69 @@ exclude_patterns = []
 #
 html_theme = 'sphinx_material'
 
+# Get the them path
+html_theme_path = sphinx_material.html_theme_path()
+# Register the required helpers for the html context
+html_context = sphinx_material.get_html_context()
+
+html_theme_options = {
+    "color_primary": "deep-purple",
+    "color_accent": "purple",
+    # "html_minify": True,
+    "repo_url": "https://github.com/chanicpanic/instructions",
+    "repo_name": "instructions",
+    "repo_type": "github",
+    # "touch_icon": "logo.png",
+    # "heroes": {
+        # "index": "hero"
+    # },
+    # "master_doc": False,
+    # "globaltoc_depth": -1,
+    # "globaltoc_collapse": False,
+    "nav_links": [
+        {
+            "href": "instructions",
+            "title": "How to Play",
+            "internal": True,
+        },
+        {
+            "href": "groups",
+            "title": "Playing in Groups",
+            "internal": True,
+        },
+        {
+            "href": "abilities",
+            "title": "Abilities",
+            "internal": True,
+        },
+        {
+            "href": "stack",
+            "title": "The Stack",
+            "internal": True,
+        },
+        {
+            "href": "presence",
+            "title": "Presence",
+            "internal": True,
+        },
+        {
+            "href": "ability_reference",
+            "title": "Ability Reference",
+            "internal": True,
+        },
+        {
+            "href": "by_number",
+            "title": "Chanic Panic by Number",
+            "internal": True,
+        },
+        {
+            "href": "glossary",
+            "title": "Glossary",
+            "internal": True,
+        },
+    ]
+}
+
 html_title = 'Chanic Panic™'
 
 html_logo = "_static/logo.png"
@@ -60,6 +127,10 @@ html_favicon = "_static/favicon.ico"
 html_copy_source = False
 
 html_show_sphinx = False
+
+html_sidebars = {
+    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
