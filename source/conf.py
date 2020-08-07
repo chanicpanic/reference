@@ -17,7 +17,7 @@ sys.path.append(os.path.abspath('./_ext'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Chanic Panic'
+project = 'Chanic Panic™'
 copyright = '2020, Nicholas Chan'
 author = 'Nicholas Chan'
 

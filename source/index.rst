@@ -1,6 +1,12 @@
 
-Welcome to Chanic Panic's documentation!
-========================================
+Welcome to the guide to everything Chanic Panic!
+################################################
+
+What is Chanic Panic?
+*********************
+
+Chanic Panic is a turn-based, last-man-standing, battle card game that can
+be played with a standard deck of cards.
 
 .. toctree::
    :maxdepth: 3
@@ -16,6 +22,6 @@ Welcome to Chanic Panic's documentation!
 
 
 Indices and tables
-==================
+******************
 
 * :ref:`genindex`

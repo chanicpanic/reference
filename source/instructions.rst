@@ -7,19 +7,6 @@
 How to Play
 ###########
 
-What is Chanic Panic?
-*********************
-
-Chanic Panic is a turn-based, last-man-standing, battle card game that can
-be played with a standard deck of cards.
-
-Specs
-*****
-
-| Players: 2+
-| Age: 10+
-| Estimated Time: 5-60 minutes
-
 Summary of Gameplay
 *******************
 
