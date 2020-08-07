@@ -50,7 +50,24 @@ exclude_patterns = []
 #
 html_theme = 'alabaster'
 
+html_title = 'Chanic Panic™'
+
+html_logo = "_static/logo.png"
+
+html_copy_source = False
+
+html_show_sphinx = False
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# -- Options for LaTex output ------------------------------------------------
+
+latex_engine = "xelatex"
+
+latex_documents = [("instructions", "instructions.pdf", "" , "Nicholas Chan",
+                    "manual", False)]
+
+# latex_use_xindy = False
