@@ -53,6 +53,7 @@ html_theme = 'alabaster'
 html_title = 'Chanic Panic™'
 
 html_logo = "_static/logo.png"
+html_favicon = "_static/favicon.ico"
 
 html_copy_source = False
 
