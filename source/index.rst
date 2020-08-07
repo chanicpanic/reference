@@ -1,7 +1,3 @@
-.. Chanic Panic documentation master file, created by
-   sphinx-quickstart on Mon Aug  3 15:03:56 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Welcome to Chanic Panic's documentation!
 ========================================
@@ -10,13 +6,13 @@ Welcome to Chanic Panic's documentation!
    :maxdepth: 3
 
    instructions
+   groups
    abilities
    stack
    presence
    ability_reference
    by_number
    glossary
-
 
 
 Indices and tables
