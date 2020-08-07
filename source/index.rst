@@ -8,12 +8,12 @@ Welcome to Chanic Panic's documentation!
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
 
    instructions
    abilities
-   ability_reference
    stack
+   presence
+   ability_reference
    by_number
    glossary
 
