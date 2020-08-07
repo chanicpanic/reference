@@ -4,8 +4,8 @@
 .. |copy| unicode:: 0xA9 .. copyright sign
 .. |tm| unicode:: U+2122
 
-Chanic Panic |tm|
-#################
+How to Play
+###########
 
 What is Chanic Panic?
 *********************
@@ -14,14 +14,14 @@ Chanic Panic is a turn-based, last-man-standing, battle card game that can
 be played with a standard deck of cards.
 
 Specs
-=====
+*****
 
 | Players: 2+
 | Age: 10+
 | Estimated Time: 5-60 minutes
 
 Summary of Gameplay
-===================
+*******************
 
 During the first two rounds, players establish their defenses by playing health
 and shield cards. Beginning round 3, attacking is allowed, and players can begin
@@ -32,7 +32,7 @@ yourself while leveraging abilities, resource cards, and alliances. If you
 are the last man standing, you are the winner.
 
 The Board
-=========
+*********
 
 Each player has a personal board on which to play Utility Cards. The board 
 consists of 9 slots -- 3 for each of Hearts, Diamonds, or Spades. Hearts are 
@@ -41,7 +41,7 @@ the middle. **Important**: There may be no more than 3 cards of the same suit
 on a player's board at the same time.
 
 The Deck
-=========
+********
 
 Chanic Panic uses a standard deck of cards. However, face cards are not used.
 In other words, Jacks, Queens, and Kings are removed from the deck. 
@@ -51,48 +51,48 @@ All players share the same deck.
 Within the game, the cards are placed into two groups based on their suit.
 
 Utility Cards
--------------
+=============
 
 These are cards that are be played on the board. This includes Hearts, Diamonds,
 and Spades.
 
 Hearts
-^^^^^^
+------
 
 Hearts represent Health. If a player's health becomes 0 or less as a result of
 an attack, that player is eliminated from the game.
 
 Diamonds
-^^^^^^^^
+--------
 
 Diamonds represent Shields. A player must destroy all Diamond cards of another
 player before being able to attack their Hearts with full power.
 
 Spades
-^^^^^^
+------
 
 Spades represent Weapons. They are used to attack and destroy Heart and Diamond
 cards, ultimately winning the game. They may not be played until round 3.
 
 Resource Cards
---------------
+==============
 
 These are cards that increase drawing and playing power. They consist of Clubs.
 Unlike Utility Cards, they are not played on the board. They are discarded
 after use.
 
 Clubs
-^^^^^
+-----
 
 The mechanics of the Club are explained later_ to reduce confusion.
 
 Card Attributes
----------------
+===============
 
 Here attributes of cards are listed. They should be thoroughly understood.
 
 Base Value
-^^^^^^^^^^
+==========
 
 This is the number on a card. 
 
@@ -101,7 +101,7 @@ This is the number on a card.
    *Reminder*: There are no face cards.
 
 (Effective) Value
-^^^^^^^^^^^^^^^^^
+=================
 
 This is the resulting value after applying modifiers to a card's Base Value.
 For the purposes of the most basic version of the game, this is always
@@ -109,30 +109,30 @@ equal to a card's Base Value. However, when playing with special abilities or
 other variants, this is an important distinction that must be made.
 
 Cost
-^^^^
+----
 
 This attribute **only** applies to Utility Cards. This is the number of Points 
 required to play a Utility Card. The vast majority of the time, it is equal
 to a card's Base Value.
 
 Taking a Turn
-=============
+*************
 
 Phases
-------
+======
 
 The Turn is broken up into 3 phases in which different actions are taken or
 available.
 
 1. Draw Phase
-^^^^^^^^^^^^^
+-------------
 
 During the first round, a player draws 5 cards from the top of the deck, as
 players start with 0 cards in hand. On all following turns in rounds 2 and 
 beyond, a player draws 1 card.
 
 2. Point Phase
-^^^^^^^^^^^^^^
+--------------
 
 After Drawing, a player moves into the Point Phase. At the beginning of the
 Point Phase, a player gets 12 Points. Points are the unit of Cost, and are used
@@ -144,7 +144,7 @@ the number of Points and the number of open slots on the board. *Reminder*:
 Spades cannot be played until Round 3.
 
 3. Club Phase
-^^^^^^^^^^^^^
+-------------
 
 The Club Phase is an optional phase that follows the Point Phase. The Club Phase
 begins as soon as a player plays a Club for the first time during the turn. A
@@ -153,7 +153,7 @@ As soon as the Club Phase begins, all Points are lost, and Points are irrelevant
 for the remainder of the turn.
 
 Club Mechanics
-""""""""""""""
+^^^^^^^^^^^^^^
 
 The mechanics of Clubs may be confusing to some, so take care to understand them.
 
@@ -178,17 +178,17 @@ It is valid to take other actions between resolving the first effect of a Club
 and using its second. 
 
 Club Chaining
-'''''''''''''
+"""""""""""""
 
 It is perfectly legal to play a Club after playing a Club as long as its
 Value is less than or equal to the Value of the former. This allows a player
 to play more Clubs and obtain more cards.
 
 Attacking
----------
+=========
 
 Fundamentals
-^^^^^^^^^^^^
+------------
 
 * Attacking is the action of using Spades one controls on the board to destroy the Diamonds
   and Hearts of on an opponent's board.
@@ -203,8 +203,8 @@ Fundamentals
 * To destroy a card, any combination of Spade Values must be greater than or 
   equal to any combination of an opponent's Diamond or Heart values.
 
-Examples:
-""""""""""
+Examples
+^^^^^^^^
 
 Cannot Destroy:
 
@@ -228,7 +228,7 @@ the opponent has no diamonds on the board, or the last Diamond is destroyed in
 the attack.
 
 The Shield Bypass
-^^^^^^^^^^^^^^^^^
+-----------------
 
 Beginning round 4, players are allowed to perform a special attack called the
 Shield Bypass. With this attack, a player attacks an opponent's Hearts directly,
@@ -244,19 +244,19 @@ A player could use an 8\ |spades| to destroy the 4\ |hearts|. A player
 could also use 7\ |spades| + 6\ |spades| to destroy the 6\ |hearts|.
 
 Attack Resolution
-^^^^^^^^^^^^^^^^^
+-----------------
 
 After an attack, all Spades used, and all Diamonds and Hearts destroyed are
 sent to the discard pile.
 
 Additional Rules
-^^^^^^^^^^^^^^^^
+================
 
 * A player may not be attacked by more than two different players before having
   another turn.
 
 Abilities
-=========
+*********
 
 Abilities are special actions that players can use to their advantage.
 
@@ -277,17 +277,17 @@ You can also play with the following optional ability for all players.
 For more details on the above abilities see the Ability Reference.
 
 Special Abilities
------------------
+=================
 
 Beside those listed above, there are several unique special abilities that
 can be used. This greatly expands the base game. For details, see
 Playing with Abilities.
 
 Ending the Game
-===============
+***************
 
 Elimination
------------
+===========
 
 A player is eliminated when is Health is 0 or less as a result of an attack.
 All of an eliminated player's cards on the board and the hand go to the discard
@@ -296,12 +296,12 @@ pile.
 Special Cases:
 
 Winning the Game
-----------------
+================
 
 A player wins the game when all opponents have been eliminated.
 
 Additional Rules and Notes
-==========================
+**************************
 
 * Full Hand: A Full Hand is 8 cards. A player may never hold more than a Full
   Hand. That is, a player skips drawing if holding a Full Hand.
@@ -313,7 +313,7 @@ Additional Rules and Notes
   4 players, 2 decks are used. If there are 5 players, 3 decks are used.
 
 More Ways to Play
-=================
+*****************
 
 Congratulations, you now know Chanic Panic fundamentals. Play with your friends
 and tune your skills. When you are ready, there are many ways to keep your 
