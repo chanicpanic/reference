@@ -63,10 +63,10 @@ html_context = sphinx_material.get_html_context()
 
 html_theme_options = {
     "color_primary": "deep-purple",
-    "color_accent": "purple",
+    "color_accent": "cyan",
     # "html_minify": True,
-    "repo_url": "https://github.com/chanicpanic/instructions",
-    "repo_name": "instructions",
+    "repo_url": "https://github.com/chanicpanic/reference",
+    "repo_name": "Edit on Github",
     "repo_type": "github",
     # "touch_icon": "logo.png",
     # "heroes": {
@@ -125,8 +125,6 @@ html_logo = "_static/logo.png"
 html_favicon = "_static/favicon.ico"
 
 html_copy_source = False
-
-html_show_sphinx = False
 
 html_sidebars = {
     "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
