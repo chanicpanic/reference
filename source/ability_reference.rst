@@ -162,7 +162,7 @@ Special Abilities
     a 7 and a 2 of Clubs. You draw 3 cards and may play 1 card with a 
     value of 9 or less.
 
-?
+.. ?
 
 .. ability::
    :name: Deadly
@@ -172,7 +172,7 @@ Special Abilities
    :rulings: This ability allows you to add a little extra sting to your 
     attacks. To discard a card, pick a card from the opponent's hand.
 
-?
+.. ?
 
 .. ability::
    :name: Direct Hitter
@@ -184,11 +184,11 @@ Special Abilities
     Theoretically, you could do 125% damage if you attack a player with
     Landowner.
 
-? Double Player
+.. ? Double Player
   
-? Eccentric
+.. ? Eccentric
 
-? Fair Trade
+.. ? Fair Trade
 
 .. ability::
    :name: Fisher
@@ -205,7 +205,7 @@ Special Abilities
     1 card with the designated value, it is that player's choice which
     card to give.
 
-precedence? blessed
+.. precedence? blessed
 
 .. ability::
    :name: Fulfilled
@@ -261,7 +261,7 @@ precedence? blessed
    :rulings: This is a very good ability that allows you to draw more cards
     and can be used if you ever need more Health.
 
-?
+.. ?
 
 .. ability::
    :name: Illusionist
@@ -329,7 +329,7 @@ precedence? blessed
     bonus to help you grow your hand. It is effective in a long game.
     Beware of the player who gets this ability with Loaded.
 
-? Life Feeder
+.. ? Life Feeder
 
 .. ability::
    :name: Lifeline
@@ -358,7 +358,7 @@ precedence? blessed
    :rulings: This ability is very useful to open possibilities on the next
     turn. Its obvious downside is its cost. 
 
-? Loophole
+.. ? Loophole
 
 .. ability::
    :name: Manipulator
@@ -417,7 +417,7 @@ precedence? blessed
    :rulings: This can be a good card, but it is tricky to use as it 
     affects all players. It is best when used with a Club.
 
-?
+.. ?
 
 .. ability::
    :name: Purifier
@@ -461,7 +461,7 @@ precedence? blessed
     Remember that the number of cards drawn from a Club is determined by
     its Base Value.
 
-? Scavenger
+.. ? Scavenger
 
 .. ability::
    :name: Seer
@@ -470,7 +470,7 @@ precedence? blessed
    :rulings: This ability allows you to see what you would get if you drew
     a card. It is a good way to maximize the effect of a Club.
 
-? Seizure
+.. ? Seizure
 
 .. ability::
    :name: Seller
