@@ -109,6 +109,11 @@ html_theme_options = {
             "title": "Glossary",
             "internal": True,
         },
+        {
+            "href": "resources",
+            "title": "Resources",
+            "internal": True,
+        },
     ]
 }
 
