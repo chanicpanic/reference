@@ -22,6 +22,7 @@ revised over time.
    ability_reference
    by_number
    glossary
+   resources
 
 
 Indices and tables
