@@ -544,7 +544,7 @@ Stack Abilities
 ***************
 
 This section covers abilities that are only relevant when playing with the
-Stack. See the Stack. When using these special abilities, mix them in with the
+Stack. See :doc:`/stack`. When using these special abilities, mix them in with the
 others.
 
 Coming Soon.

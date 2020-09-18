@@ -6,8 +6,6 @@ Abilities are special actions and bonuses that players can use to their
 advantage. Using Special Abilities, those beyond the Base Abilities that
 all players have, your Chanic Panic experience will be greatly expanded.
 
-You can download ability cards here for convenience.
-
 Playing with Abilities
 **********************
 
@@ -45,7 +43,7 @@ Reference.
 The Ability Reference
 *********************
 
-See the Ability Reference for more detailed mechanics on the effects of
-abilities and some of the edge cases which arise, as well as some
-commentary on their effectiveness.
+See the :doc:`/ability_reference` for more detailed mechanics on the effects
+of abilities and some of the edge cases which arise, as well as some commentary
+on their effectiveness.
 
