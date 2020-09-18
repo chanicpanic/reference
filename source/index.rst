@@ -8,8 +8,10 @@ What is Chanic Panic?
 Chanic Panic is a turn-based, last-man-standing, battle card game that can
 be played with a standard deck of cards.
 
-This guide is currently under development. Sections will be added and 
-revised over time.
+.. note::
+
+   This guide is currently under development. Sections will be added and 
+   revised over time.
 
 .. toctree::
    :maxdepth: 3
