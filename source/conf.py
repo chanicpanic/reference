@@ -64,17 +64,10 @@ html_context = sphinx_material.get_html_context()
 html_theme_options = {
     "color_primary": "deep-purple",
     "color_accent": "cyan",
-    # "html_minify": True,
     "repo_url": "https://github.com/chanicpanic/reference",
     "repo_name": "Edit on Github",
     "repo_type": "github",
-    # "touch_icon": "logo.png",
-    # "heroes": {
-        # "index": "hero"
-    # },
-    # "master_doc": False,
-    # "globaltoc_depth": -1,
-    # "globaltoc_collapse": False,
+    "master_doc": False,
     "nav_links": [
         {
             "href": "instructions",
