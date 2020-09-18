@@ -177,12 +177,9 @@ Special Abilities
 .. ability::
    :name: Direct Hitter
    :classification: P
-   :effect: Flip: Until the end of your turn: Your Shield Bypass attack
-    power is 25% plus 25% for each Diamond the defender controls.
-   :rulings: It may seem like your bypassing becomes a little weaker, but
-    it still has a minimun of 50% attack power when it matters. 
-    Theoretically, you could do 125% damage if you attack a player with
-    Landowner.
+   :effect: If the defender controls 2 or more Diamonds, your Shield Bypass
+    attack power is 75%.
+   :rulings: A powerful ability that makes you an opponent to watch out for.
 
 .. ? Double Player
   
