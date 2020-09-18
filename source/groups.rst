@@ -2,22 +2,24 @@
 Playing in Groups
 #################
 
-When playing with more than 2 people, there are many different variations
-that could be taken. The main one is with teams.
+Coming Soon.
 
-Teams
-*****
+.. When playing with more than 2 people, there are many different variations
+   that could be taken. The main one is with teams.
 
-Ally
+.. Teams
+  *****
 
-Half-Elimination
-================
+  Ally
 
-Scoring
-=======
+  Half-Elimination
+  ================
 
-Presence
-========
+  Scoring
+  =======
 
-Lives
-*****
+  Presence
+  ========
+
+  Lives
+  *****

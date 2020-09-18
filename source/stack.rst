@@ -44,7 +44,7 @@ Stack Card Effects
 An effect of a Stack Card may not be activated the same turn it is added to 
 the Stack.
 
-**Expand on this**
+.. **Expand on this**
 
 Attaching
 =========
