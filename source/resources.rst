@@ -7,14 +7,14 @@ experience. All resources are available for free under a Creative
 Commons License.  Please review the licenses to know the permissions
 granted for each resource.
 
-+----------------------------------+--------------------------------+
-|Resource                          |License                         |
-+==================================+================================+
-| :download:`Chanic Panic Board    ||board_license|                 |
-| <./ChanicPanicBoard.pdf>`        |                                |
-|                                  |                                |
-|                                  |                                |
-+----------------------------------+--------------------------------+
++---------------------------------+------------------------------------------------------------+--------------------------------+
+|Resource                         |Description                                                 |License                         |
++=================================+============================================================+================================+
+| :download:`Chanic Panic Board   |An 8.5x11in Chanic Panic Board mat containing zones for up  ||board_license|                 |
+| <./ChanicPanicBoard.pdf>`       |to 3 Hearts, Diamonds, and Spades. Features card-centering  |                                |
+|                                 |guidelines.                                                 |                                |
+|                                 |                                                            |                                |
++---------------------------------+------------------------------------------------------------+--------------------------------+
 
 
 .. |board_license| image:: _static/CCBoardLicense.png
