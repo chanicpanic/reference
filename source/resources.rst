@@ -2,6 +2,11 @@
 Resources
 #########
 
+Here are some printable game components to enhance your Chanic Panic
+experience. All resources are available for free under a Creative
+Commons License.  Please review the licenses to know the permissions
+granted for each resource.
+
 +----------------------------------+--------------------------------+
 |Resource                          |License                         |
 +==================================+================================+
