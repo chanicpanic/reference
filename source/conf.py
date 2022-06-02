@@ -74,11 +74,11 @@ html_theme_options = {
             "title": "How to Play",
             "internal": True,
         },
-        {
-            "href": "groups",
-            "title": "Playing in Groups",
-            "internal": True,
-        },
+        # {
+            # "href": "groups",
+            # "title": "Playing in Groups",
+            # "internal": True,
+        # },
         {
             "href": "abilities",
             "title": "Abilities",
