@@ -3,7 +3,7 @@ Chanic Panic Reference
 
 This repository holds the source files for the Chanic Panic Reference hosted on `chanicpanic.com <https://chanicpanic.com/reference/>`_.
 
-
+Chanic Panic: The Card Game is available on `Google Play <https://play.google.com/store/apps/details?id=com.chanicpanic.chanicpanicmobile>`_.
 
 Building the Guide
 ******************
