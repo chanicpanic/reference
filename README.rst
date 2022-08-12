@@ -13,7 +13,11 @@ Prerequisites
 
 - Python 3
 - Make
-- The following Python packages installed in your environment: ``sphinx``, ``sphinx-material``.
+
+Install Dependencies
+====================
+
+Run ``python -m pip install -r requirements.txt``.
 
 Build
 =====
