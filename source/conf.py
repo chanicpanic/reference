@@ -23,7 +23,7 @@ sys.path.append(os.path.abspath('./_ext'))
 # -- Project information -----------------------------------------------------
 
 project = 'Chanic Panic™'
-copyright = '2022'
+copyright = '2023'
 author = 'chanicpanic'
 
 # The full version, including alpha/beta/rc tags
