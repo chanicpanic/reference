@@ -56,7 +56,7 @@ exclude_patterns = []
 #
 html_theme = 'sphinx_material'
 
-# Get the them path
+# Get the theme path
 html_theme_path = sphinx_material.html_theme_path()
 # Register the required helpers for the html context
 html_context = sphinx_material.get_html_context()
@@ -68,6 +68,7 @@ html_theme_options = {
     "repo_name": "Edit on Github",
     "repo_type": "github",
     "master_doc": False,
+    "search_placeholder_text": "Search",
     "nav_links": [
         {
             "href": "instructions",
